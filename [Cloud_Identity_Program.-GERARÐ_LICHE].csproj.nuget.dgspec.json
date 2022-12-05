@@ -1,0 +1,121 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lgc-s\\source\\source\\repos\\[Cloud_Identity_Program]\\[Cloud_Identity_Program.-GERARÐ_LICHE]\\[Cloud_Identity_Program.-GERARÐ_LICHE]\\[Cloud_Identity_Program.-GERARÐ_LICHE].csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lgc-s\\source\\source\\repos\\[Cloud_Identity_Program]\\[Cloud_Identity_Program.-GERARÐ_LICHE]\\[Cloud_Identity_Program.-GERARÐ_LICHE]\\[Cloud_Identity_Program.-GERARÐ_LICHE].csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lgc-s\\source\\source\\repos\\[Cloud_Identity_Program]\\[Cloud_Identity_Program.-GERARÐ_LICHE]\\[Cloud_Identity_Program.-GERARÐ_LICHE]\\[Cloud_Identity_Program.-GERARÐ_LICHE].csproj",
+        "projectName": "[Cloud_Identity_Program.-GERARÐ_LICHE]",
+        "projectPath": "C:\\Users\\lgc-s\\source\\source\\repos\\[Cloud_Identity_Program]\\[Cloud_Identity_Program.-GERARÐ_LICHE]\\[Cloud_Identity_Program.-GERARÐ_LICHE]\\[Cloud_Identity_Program.-GERARÐ_LICHE].csproj",
+        "packagesPath": "C:\\Users\\lgc-s\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lgc-s\\source\\source\\repos\\[Cloud_Identity_Program]\\[Cloud_Identity_Program.-GERARÐ_LICHE]\\[Cloud_Identity_Program.-GERARÐ_LICHE]\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lgc-s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Google.Cloud.Iam.V1": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.ApplicationInsights.AspNetCore": {
+              "target": "Package",
+              "version": "[2.20.0, )"
+            },
+            "Microsoft.AspNetCore.SpaProxy": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.CodeAnalysis.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.3.3, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp.Workspaces": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Microsoft.CodeAnalysis.Common": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Microsoft.CodeAnalysis.Workspaces.Common": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Oracle.ManagedDataAccess": {
+              "target": "Package",
+              "version": "[21.5.0, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[3.21.50, )"
+            },
+            "Oracle.Web": {
+              "target": "Package",
+              "version": "[21.5.0, )"
+            },
+            "oracle.instantclient": {
+              "target": "Package",
+              "version": "[12.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
